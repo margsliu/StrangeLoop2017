@@ -1,20 +1,20 @@
 The following lightning talks have been proposed for the Strange Loop 2017 session on Friday, September 29, at Union Station in Grand EF from 8:30-10:00 pm.
 
-You will an email with instructions on how to vote on these lightning talks.
+You will receive an email with instructions on how to vote on these lightning talks.
 
-1. **TypeScript 101** by [**@fvcproductions**](https://github.com/fvcproductions) - A short introduction to TypeScript and the benefits it provides to large-scale projects
-1. **GraphQL in Practice** by [**@nickvanw**](https://github.com/nickvanw) - An introduction to GraphQL and how it benefits GitHub internally and externally
-1. **Writing WebVR with Clojurescript** by [**Andres Cuervo**](https://twitter.com/acwervo) - A brisk walk through all the things I've had to do to be able to write web-based virtual reality experiences in Clojurescript
+1. **TypeScript 101** by [**@fvcproductions**](https://github.com/fvcproductions) - A short introduction to TypeScript and the benefits it provides to large-scale projects.
+1. **GraphQL in Practice** by [**@nickvanw**](https://github.com/nickvanw) - An introduction to GraphQL and how it benefits GitHub internally and externally.
+1. **Writing WebVR with Clojurescript** by [**Andres Cuervo**](https://twitter.com/acwervo) - A brisk walk through all the things I've had to do to be able to write web-based virtual reality experiences in Clojurescript.
 1. **Home Automation without the cloud** by [**@balloob**](https://github.com/balloob) - Short introduction to [Home Assistant](https://home-assistant.io), one of the biggest open source home automation frameworks.
-1. **Strategy Factories** by [**@melanchroes**](https://twitter.com/melanchroes) - A simple composite design pattern for maximum flexibility in picking the _right_ algorithm given multiple options
-1. **The Voldemort Effect** by [**@litonico_**](https://twitter.com/litonico_) - A lighthearted, very short talk about why Voldemort didn't win and what that means for how we think about ideas in tech
+1. **Strategy Factories** by [**@melanchroes**](https://twitter.com/melanchroes) - A simple composite design pattern for maximum flexibility in picking the _right_ algorithm given multiple options.
+1. **The Voldemort Effect** by [**@litonico_**](https://twitter.com/litonico_) - A lighthearted, very short talk about why Voldemort didn't win and what that means for how we think about ideas in tech.
 1. **Why Not Haskell?** by [**@cercerilla**](https://twitter.com/cercerilla) - A look at why Haskell is great, but hasn't gotten wider adoption in industry, plus a summary of lessons I've learned trying to teach and foster the St. Louis Haskell community
 1. **Generating Music Functionally with Alda** by [**@dave_yarwood**](https://twitter.com/dave_yarwood) - A lightning-fast introduction to the music programming language [Alda](https://github.com/alda-lang/alda), leading into a demo of how to use inline Clojure code to generate random bongo patterns in an Alda score.
-1. **striking out on your own** by [**@wyc**](https://github.com/wyc) - how to get clients and sling code for them without falling flat on your face.
+1. **striking out on your own** by [**@wyc**](https://github.com/wyc) - How to get clients and sling code for them without falling flat on your face.
 1. **Building an Elm-Elixir Course Notes App** by [**@jxxcarlson**] (https://github.com/jxxcarlson) - How make Elm talk to Phoenix, Asciidoctor.js, and MathJax.js to create complex, sometimes technical documents while increasing author and reader happiness.
 1. **Let's build a SQL REPL in 5 minutes** by [**@amjithr**](https://twitter.com/amjithr) - Build a REPL with auto-completion and syntax highlighting in 10 lines of Python.
 1. **Talker, an Open Source Communication Device for Kids with Autism** by [**@amendment19**](https://github.com/amendment19) - Building a bespoke augmentative and alternative communication (AAC) device with Raspberry Pi and Django.
-1. **Programming Shibboleths** by [**@thursdayb**](https://twitter.com/thursdayb) — A quick discussions on shibboleths (including jokes, social cues, and memes) in programming culture.
+1. **Programming Shibboleths** by [**@thursdayb**](https://twitter.com/thursdayb) - A quick discussions on shibboleths (including jokes, social cues, and memes) in programming culture.
 1. **Software Development Canaries** by [**@blinkymach12**](https://twitter.com/blinkymach12) - Quickly diagnose and repair scary software development practices by applying a "canary in the coal mine" philosophy.
 1. **When Your Hobby Reminds You Too Much Of Your Work** by [**@woodwardjd**](https://twitter.com/woodwardjd) - A brief story about aggressive schedules, unanticipated roadblocks, workarounds, failure and triumph in personal automobile repair.
 1. **Brainstorming with Introverts** by [**@deedeelavinder**](https://github.com/deedeelavinder) - Tips for soliciting input from **everyone** on your team. 
